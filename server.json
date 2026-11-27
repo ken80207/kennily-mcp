@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.ken80207/kennily-app-finder",
+  "description": "Read-only catalog of Kennily's iOS apps: list them or search by need, with App Store links.",
+  "repository": {"url": "https://github.com/ken80207/kennily-mcp", "source": "github"},
+  "version": "1.0.0",
+  "packages": [
+    {"registryType": "pypi", "identifier": "kennily-mcp", "version": "1.0.0", "transport": {"type": "stdio"}}
+  ]
+}

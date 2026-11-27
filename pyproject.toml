@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kennily-mcp"
+version = "1.0.0"
+description = "Read-only MCP server listing Kennily's iOS apps with App Store links (first-party catalog)."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [{name = "Ken (Kennily)"}]
+
+[project.urls]
+Homepage = "https://github.com/ken80207/kennily-mcp"
+
+[project.scripts]
+kennily-mcp = "server:main"
+
+[tool.setuptools]
+py-modules = ["server"]
+
+[tool.setuptools.data-files]
+"." = ["catalog.json"]

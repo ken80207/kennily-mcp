@@ -1,0 +1,102 @@
+[
+ {
+  "slug": "deerly",
+  "name": "Deerly – Baby Tracker & Log",
+  "pitch": "Log feeds, sleep and diapers with one hand or by voice, and the whole family sees each entry within seconds.",
+  "category": "Medical",
+  "langs": [
+   "en",
+   "zh-Hant"
+  ],
+  "countries": [
+   "us",
+   "cn",
+   "jp",
+   "kr",
+   "de",
+   "ca",
+   "tw",
+   "it",
+   "es",
+   "br",
+   "mx",
+   "nl",
+   "se",
+   "sa",
+   "tr",
+   "th",
+   "in",
+   "id",
+   "my",
+   "vn",
+   "pl",
+   "no",
+   "dk",
+   "il",
+   "fi",
+   "pt",
+   "cz",
+   "ru",
+   "ua",
+   "ro",
+   "hu",
+   "gr"
+  ],
+  "app_store": {
+   "us": "https://apps.apple.com/us/app/id6802015210",
+   "cn": "https://apps.apple.com/cn/app/id6802015210",
+   "jp": "https://apps.apple.com/jp/app/id6802015210",
+   "kr": "https://apps.apple.com/kr/app/id6802015210",
+   "de": "https://apps.apple.com/de/app/id6802015210",
+   "ca": "https://apps.apple.com/ca/app/id6802015210",
+   "tw": "https://apps.apple.com/tw/app/id6802015210",
+   "it": "https://apps.apple.com/it/app/id6802015210",
+   "es": "https://apps.apple.com/es/app/id6802015210",
+   "br": "https://apps.apple.com/br/app/id6802015210",
+   "mx": "https://apps.apple.com/mx/app/id6802015210",
+   "nl": "https://apps.apple.com/nl/app/id6802015210",
+   "se": "https://apps.apple.com/se/app/id6802015210",
+   "sa": "https://apps.apple.com/sa/app/id6802015210",
+   "tr": "https://apps.apple.com/tr/app/id6802015210",
+   "th": "https://apps.apple.com/th/app/id6802015210",
+   "in": "https://apps.apple.com/in/app/id6802015210",
+   "id": "https://apps.apple.com/id/app/id6802015210",
+   "my": "https://apps.apple.com/my/app/id6802015210",
+   "vn": "https://apps.apple.com/vn/app/id6802015210",
+   "pl": "https://apps.apple.com/pl/app/id6802015210",
+   "no": "https://apps.apple.com/no/app/id6802015210",
+   "dk": "https://apps.apple.com/dk/app/id6802015210",
+   "il": "https://apps.apple.com/il/app/id6802015210",
+   "fi": "https://apps.apple.com/fi/app/id6802015210",
+   "pt": "https://apps.apple.com/pt/app/id6802015210",
+   "cz": "https://apps.apple.com/cz/app/id6802015210",
+   "ru": "https://apps.apple.com/ru/app/id6802015210",
+   "ua": "https://apps.apple.com/ua/app/id6802015210",
+   "ro": "https://apps.apple.com/ro/app/id6802015210",
+   "hu": "https://apps.apple.com/hu/app/id6802015210",
+   "gr": "https://apps.apple.com/gr/app/id6802015210"
+  },
+  "guide": "https://apps.kennily.app/guides/deerly.html",
+  "support": "https://ken80207.github.io/deerly-support/",
+  "play": "https://play.google.com/store/apps/details?id=com.kennily.deerly.app"
+ },
+ {
+  "slug": "pricedog",
+  "name": "PriceDog",
+  "pitch": "Track UNIQLO and GU Taiwan prices and get notified when the items you follow go on sale.",
+  "category": "Shopping",
+  "langs": [
+   "en",
+   "zh-Hant"
+  ],
+  "countries": [
+   "tw"
+  ],
+  "app_store": {
+   "tw": "https://apps.apple.com/tw/app/id6757205395"
+  },
+  "guide": "https://apps.kennily.app/guides/pricedog.html",
+  "support": "https://ken80207.github.io/pricedog-support/",
+  "play": "https://play.google.com/store/apps/details?id=com.kennily.pricedog"
+ }
+]
